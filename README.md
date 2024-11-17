@@ -1,2 +1,1 @@
-# pointer-basics
-pointer in c and cpp
+***pointer in c and cpp***
